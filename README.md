@@ -32,9 +32,9 @@
 js-module-01/
 │
 ├── js/
-│ └── task-1.js # Задача 1
-│ └── task-2.js # Задача 2
-│ └── task-3.js # Задача 3
+│ └── task-1.js # Завдання 1
+│ └── task-2.js # Завдання 2
+│ └── task-3.js # Завдання 3
 ├── .gitignore # Файл налаштування gitignore
 ├── .prettierrc.json # Файл налаштування Prettier
 ├── index.html # Тестова HTML-сторінка
@@ -56,7 +56,7 @@ js-module-01/
 
 1. Відкрити файл `index.html` у браузері  
    або  
-   запустити `script.js` через **DevTools → Console**.
+   запустити відповідний скрипт через **DevTools → Console**.
 
 2. Ознайомитися з результатами виконання кожної задачі в консолі.
 
