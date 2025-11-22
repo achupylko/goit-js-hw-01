@@ -31,9 +31,13 @@
 ```
 js-module-01/
 │
-├── index.html # Тестова HTML-сторінка (за потреби)
 ├── js/
-│ └── script.js # Основні задачі модуля
+│ └── task-1.js # Задача 1
+│ └── task-2.js # Задача 2
+│ └── task-3.js # Задача 3
+├── .gitignore # Файл налаштування gitignore
+├── .prettierrc.json # Файл налаштування Prettier
+├── index.html # Тестова HTML-сторінка
 └── README.md # Опис проєкту
 ```
 
